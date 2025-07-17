@@ -63,9 +63,9 @@ You can find more details and code for these projects in my pinned repositories.
 
 I'm always open to discussing new ideas, collaborating on projects, or just chatting about AI and web development!
 
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/dhruv-jain-6331651bb/)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Portfolio/Website (Optional):** [)
+* **LinkedIn:** [https://www.linkedin.com/in/dhruv-jain-6331651bb/]
+* **Email:** [djdhruvjain54@outlook.com]
+* **Portfolio/Website (Optional):....
 
 ---
 
