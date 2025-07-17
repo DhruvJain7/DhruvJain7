@@ -24,7 +24,6 @@ Here are some of the technologies I'm working with:
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <!-- Add more frontend skills like HTML, CSS, etc. -->
 
@@ -51,9 +50,8 @@ Here are some of the technologies I'm working with:
 
 I'm currently working on exciting projects that merge my frontend expertise with AI capabilities. Check out some of my highlighted repositories below to see my work in action!
 
-* **[Project Name 1]:** A brief, exciting description of a project where you combined React/Node/Python/AI.
-* **[Project Name 2]:** Another brief description, perhaps focusing on Docker/Kubernetes deployment.
-* **[Project Name 3]:** Yet another brief description, maybe an NLP or CV focused project.
+* **[Food-Delivery App]:** A brief, exciting description of a project where you combined React/Node/Python/AI.
+
 
 You can find more details and code for these projects in my pinned repositories.
 
@@ -65,14 +63,14 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 
 * **LinkedIn:** [https://www.linkedin.com/in/dhruv-jain-6331651bb/]
 * **Email:** [djdhruvjain54@outlook.com]
-* **Portfolio/Website (Optional):....
+* **Portfolio/Website:**[Coming Soon]
 
 ---
 
 ### 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvJain7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJain7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DhruvJain7/DhruvJain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
