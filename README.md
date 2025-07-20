@@ -71,7 +71,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 
 ### 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvJain7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJain7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
