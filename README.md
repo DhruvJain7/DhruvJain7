@@ -54,6 +54,8 @@ I'm currently working on exciting projects that merge my frontend expertise with
 
 We've crafted a stunning, responsive UI using Tailwind CSS, ensuring a delightful experience on any device. Explore a dynamic menu, handle live API data with finesse, and navigate effortlessly through various restaurants thanks to robust React Routing. Every feature, from browsing dishes to placing orders, is meticulously built, and rigorously tested with Jest to ensure reliability.
 
+* **[Netflix-GPT]:** 
+
 
 You can find more details and code for these projects in my pinned repositories.
 
