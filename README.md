@@ -8,12 +8,9 @@ Currently pursuing my **MTech in AI**, I'm driven to build intelligent, user-fri
 
 ### 💡 About Me & What I'm Up To
 
-My journey started in frontend development with a strong focus on **React**, crafting engaging and responsive web interfaces. Now, I'm diving deep into the world of AI, exploring areas like **Natural Language Processing (NLP)** and **Computer Vision (CV)**.
+My journey started in frontend development with a strong focus on **React**, crafting engaging and responsive web interfaces. Now, I'm diving deep into the world of AI, and moving towards my dream being a passionate developer.
 
-I'm particularly fascinated by how we can integrate powerful AI capabilities into modern web applications, making them smarter and more impactful. I love tackling challenges that involve:
--   🎨  Creating seamless user experiences for AI-powered tools.
--   🧠  Developing robust and scalable AI backends.
--   🚀  Deploying intelligent applications with modern DevOps practices.
+
 
 ---
 
@@ -29,8 +26,7 @@ Here are some of the technologies I'm working with:
 <!-- Add more frontend skills like HTML, CSS, etc. -->
 
 **Backend & AI:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
