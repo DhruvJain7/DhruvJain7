@@ -74,10 +74,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 
 ---
 
-### 📈 GitHub Stats
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJain7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
 
 <!--
 **DhruvJain7/DhruvJain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
