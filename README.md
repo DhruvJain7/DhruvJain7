@@ -22,6 +22,7 @@ Here are some of the technologies I'm working with:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Git</title><path d="M23.546 10.93L13.067.452c-.604-.603-1.582-.603-2.188 0L8.708 2.627l2.76 2.76c.645-.215 1.379-.07 1.889.441.516.515.658 1.258.438 1.9l2.658 2.66c.645-.223 1.387-.078 1.9.435.721.72.721 1.884 0 2.604-.719.719-1.881.719-2.6 0-.539-.541-.674-1.337-.404-1.996L12.86 8.955v6.525c.176.086.342.203.488.348.713.721.713 1.883 0 2.6-.719.721-1.889.721-2.609 0-.719-.719-.719-1.879 0-2.598.182-.18.387-.316.605-.406V8.835c-.217-.091-.424-.222-.6-.401-.545-.545-.676-1.342-.396-2.009L7.636 3.7.45 10.881c-.6.605-.6 1.584 0 2.189l10.48 10.477c.604.604 1.582.604 2.186 0l10.43-10.43c.605-.603.605-1.582 0-2.187"/></svg>)
 
 <!-- Add more frontend skills like HTML, CSS, etc. -->
 
@@ -38,13 +39,15 @@ Here are some of the technologies I'm working with:
 
 ### 🚀 Latest Projects & What I'm Building
 
-I'm currently working on exciting projects that merge my frontend expertise with AI capabilities. Check out some of my highlighted repositories below to see my work in action!
+I'm currently working on exciting projects. Check them below:
 
 * **[Foodie-Fleet]:** FoodieFleet is a modern, blazing-fast food delivery application built from the ground up with React! Dive into a seamless user experience, powered by a deep understanding of React Hooks and efficient state management with Redux Toolkit.
 
 We've crafted a stunning, responsive UI using Tailwind CSS, ensuring a delightful experience on any device. Explore a dynamic menu, handle live API data with finesse, and navigate effortlessly through various restaurants thanks to robust React Routing. Every feature, from browsing dishes to placing orders, is meticulously built, and rigorously tested with Jest to ensure reliability.
 
-* **[Netflix-GPT]:** 
+* **[Netflix-GPT]:**
+
+* **[DevTinder]:**
 
 
 You can find more details and code for these projects in my pinned repositories.
