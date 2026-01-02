@@ -8,7 +8,7 @@ Currently pursuing my **MTech in AI**, I'm driven to build intelligent, user-fri
 
 ### 💡 About Me & What I'm Up To
 
-My journey started in frontend development with a strong focus on **React**, crafting engaging and responsive web interfaces. Now, I'm diving deep into the world of AI, and moving towards my dream being a passionate developer.
+My journey started in frontend development with a strong focus on **React**, crafting engaging and responsive web interfaces. Now, I'm diving deep into the world of Node.js, and moving towards my dream being a passionate full stack developer.
 
 
 
@@ -19,17 +19,27 @@ My journey started in frontend development with a strong focus on **React**, cra
 Here are some of the technologies I'm working with:
 
 **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- React
+- JavaScript
+- Tailwind CSS
+- Redux
+- HTML & CSS
 
 
 <!-- Add more frontend skills like HTML, CSS, etc. -->
 
 **Backend & AI:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Python
+- scikit-learn
+- Node.js
+- MongoDB
+- Express.js
+
+**Others:**
+
+- Git
+- Version Control
 
 
 
