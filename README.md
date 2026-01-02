@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhruv
 
-I'm a passionate developer blending the best of frontend design with cutting-edge Artificial Intelligence.
+I'm a passionate developer who aim to be a Full Stack Developer.
 
 Currently pursuing my **MTech in AI**, I'm driven to build intelligent, user-friendly applications that bridge the gap between complex AI models and intuitive user experiences.
 
@@ -29,6 +29,7 @@ Here are some of the technologies I'm working with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 
 <!-- Add more as you learn them: Git, CI/CD tools, etc. -->
