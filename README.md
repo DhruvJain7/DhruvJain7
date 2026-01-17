@@ -45,24 +45,7 @@ Here are some of the technologies I'm working with:
 
 <!-- Add more as you learn them: Git, CI/CD tools, etc. -->
 
----
 
-### 🚀 Latest Projects & What I'm Building
-
-I'm currently working on exciting projects. Check them below:
-
-* **[Foodie-Fleet]:** FoodieFleet is a modern, blazing-fast food delivery application built from the ground up with React! Dive into a seamless user experience, powered by a deep understanding of React Hooks and efficient state management with Redux Toolkit.
-
-We've crafted a stunning, responsive UI using Tailwind CSS, ensuring a delightful experience on any device. Explore a dynamic menu, handle live API data with finesse, and navigate effortlessly through various restaurants thanks to robust React Routing. Every feature, from browsing dishes to placing orders, is meticulously built, and rigorously tested with Jest to ensure reliability.
-
-* **[Netflix-GPT]:**
-
-* **[DevTinder]:**
-
-
-You can find more details and code for these projects in my pinned repositories.
-
----
 
 ### 📫 Let's Connect!
 
