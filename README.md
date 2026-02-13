@@ -53,7 +53,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 
 * **LinkedIn:** [https://www.linkedin.com/in/dhruv-jain-6331651bb/]
 * **Email:** [djdhruvjain54@outlook.com]
-* **Portfolio/Website:**[Coming Soon]
+* **Portfolio/Website:**[https://dhruvjain7.github.io/myPortfolio/]
 
 ---
 
