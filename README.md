@@ -35,6 +35,8 @@ Here are some of the technologies I'm working with:
 - Node.js
 - MongoDB
 - Express.js
+- Tensorflow(Deep Learning)
+- Computer Vision
 
 **Others:**
 
