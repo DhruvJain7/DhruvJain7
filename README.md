@@ -8,6 +8,6 @@ Have experience in :
  - Javascript , React.js , Python,  Node.js , MongoDB, Express.js  , Tensorflow
 
 Also Interested in :
-- Computer Vision, Deep Learning , LLMs
+- Computer Vision, Deep Learning , LLMs , Agentic-AI
 
 
